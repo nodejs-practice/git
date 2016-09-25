@@ -1,3 +1,7 @@
 This is a sample file. This should go in the first commit.
 
 I added a second line.
+
+now, a third line.
+
+fourth line.
